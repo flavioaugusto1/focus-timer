@@ -27,15 +27,6 @@ O GitFav se trata de um projeto onde é utilizado o consumo da API do Github com
 
 ## Screenshots
 
-![App Screenshot](https://i.pinimg.com/originals/99/34/4a/99344a05725ce84bbe143108a1cecab4.jpg)
-
-![App Screenshot](https://i.pinimg.com/originals/dd/60/5e/dd605e587bbccf609ff3356adf032d9e.jpg)
-
-![App Screenshot](https://i.pinimg.com/originals/03/b6/2b/03b62b3ee6de377670c51ac63d455550.jpg)
-
-
-## Screenshots
-
 ![App Screenshot](https://i.pinimg.com/originals/82/fa/bd/82fabdd7322aa3b20917582ad8d1b320.jpg)
 
 ![App Screenshot](https://i.pinimg.com/originals/5d/b1/9b/5db19bad26a310b590fb55e39520b690.jpg)
